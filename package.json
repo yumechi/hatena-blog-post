@@ -1,0 +1,11 @@
+{
+  "name": "hatena-blog-post",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:yumechi/hatena-blog-post.git",
+  "author": "yumechi <yumechi0525@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "serverless": "^1.61.2"
+  }
+}
